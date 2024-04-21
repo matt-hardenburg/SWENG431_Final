@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
+	<children>
+		<folder name="Login">
+			<child name="ValidLogin" key="{E9C30205-FA42-4EEF-9284-1D70FC5992AF}" path="ValidLogin.tcKDTest" />
+			<child name="InvalidLogin" key="{62E64622-EB28-4EA2-9A62-1C798AA85383}" path="InvalidLogin.tcKDTest" />
+			<child name="EmptyLogin" key="{D6F61853-DDC6-4F9D-A7A3-218FFBFAB911}" path="EmptyLogin.tcKDTest" />
+		</folder>
+		<folder name="CreateRoom">
+			<child name="Private" key="{9BE1708A-0911-42A7-9570-04374238B410}" path="Private.tcKDTest" />
+			<child name="PrivateBroadcast" key="{DD763329-83D3-4C8B-9A36-B361C0BD3D22}" path="PrivateBroadcast.tcKDTest" />
+			<child name="PrivateReadOnly" key="{C3187FAF-578E-493E-866C-6679282E8854}" path="PrivateReadOnly.tcKDTest" />
+			<child name="Public" key="{BBE06B87-1D45-49E3-B0D1-5325CE3A2C37}" path="Public.tcKDTest" />
+			<child name="PublicBroadcast" key="{1D164691-1106-4222-B436-25F73B25E1A8}" path="PublicBroadcast.tcKDTest" />
+			<child name="PublicReadOnly" key="{CD7B1863-3C64-49F1-A9C7-BD69DC9813C4}" path="PublicReadOnly.tcKDTest" />
+		</folder>
+	</children>
+</Root>
