@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{73185DA2-01F0-400E-8ADE-D6D1DB3D9AC5}">
+	<children>
+		<child name="SWENG431_Final" key="{F7422E36-D738-4166-A475-0A9685F05335}" path="SWENG431_Final\SWENG431_Final.mds" />
+	</children>
+	<testItems key="{8FC88DC5-E284-4868-9D7F-F649DE44C415}">
+		<children>
+			<testItem key="{F7422E36-D738-4166-A475-0A9685F05335}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{EF6B4D1D-0A22-4B24-8658-99EC77E2EC1C}" />
+	<analysis key="{5E560642-213B-4ED3-A4D8-603CAAE9B877}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>
