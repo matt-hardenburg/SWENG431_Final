@@ -14,5 +14,11 @@
 			<child name="PublicBroadcast" key="{1D164691-1106-4222-B436-25F73B25E1A8}" path="PublicBroadcast.tcKDTest" />
 			<child name="PublicReadOnly" key="{CD7B1863-3C64-49F1-A9C7-BD69DC9813C4}" path="PublicReadOnly.tcKDTest" />
 		</folder>
+		<folder name="Create User">
+			<child name="EmptyUser" key="{67F3112E-3379-49CA-A9B2-67AECED4DF25}" path="EmptyUser.tcKDTest" />
+			<child name="ValidUser" key="{0D5D3B40-7FB1-46C5-A075-EAB20B812DE0}" path="ValidUser.tcKDTest" />
+			<child name="ExistingUser" key="{FFA55644-1D5B-4204-A346-034394E38ED6}" path="ExistingUser.tcKDTest" />
+			<child name="CreateUserTestHarness" key="{5BA30181-963A-4C7E-8554-3C8E2EAD77ED}" path="CreateUserTestHarness.tcKDTest" />
+		</folder>
 	</children>
 </Root>
